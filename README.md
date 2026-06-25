@@ -1,60 +1,60 @@
-\# Simple Tic-Tac Toe Game with Java Swing, Login, and Statistics
+# Simple Tic-Tac Toe Game with Java Swing, Login, and Statistics
 
 
 
-\## Student Information
+## Student Information
 
-Name: (Isi nama lengkap Anda)
+Name: Mohammad Daffa Balthazar Rusbini
 
-Student ID: (Isi NRP Anda)
+Student ID: 5026251106
 
-Class: (Isi kelas Anda)
+Class: A
 
 
 
-\## Project Description
+## Project Description
 
 This project is a simple Tic-Tac Toe game built using Java Swing. The application includes login, game statistics, and Top 5 scorer feature.
 
 
 
-\## Features
+## Features
 
-\- Login using database
+- Login using database
 
-\- Play Tic-Tac Toe using Swing GUI
+- Play Tic-Tac Toe using Swing GUI
 
-\- Record wins, losses, draws, and score
+- Record wins, losses, draws, and score
 
-\- Display personal statistics
+- Display personal statistics
 
-\- Display Top 5 scorers using JTable
+- Display Top 5 scorers using JTable
 
 
 
-\## Database
+## Database
 
 Database used: MySQL
 
 
 
-\## How to Run
+## How to Run
 
-1\. Create the database `game\\\_project`.
+1. Create the database `game\\\_project`.
 
-2\. Import `schema.sql`.
+2. Import `schema.sql`.
 
-3\. Open the Java project.
+3. Open the Java project.
 
-4\. Add JDBC driver (`mysql-connector-j.jar`).
+4. Add JDBC driver (`mysql-connector-j.jar`).
 
-5\. Configure `DatabaseManager.java`.
+5. Configure `DatabaseManager.java`.
 
-6\. Run `Main.java`.
+6. Run `Main.java`.
 
 
 
-\## Class Explanation
+## Class Explanation
 
 Main: Starts the program and opens the Login Window.
 
@@ -78,13 +78,13 @@ TopScorersFrame: Swing window for showing Top 5 scorers using a table.
 
 
 
-\## Screenshots
+## Screenshots
 
 
 
 
 
-\## Links
+## Links
 
 YouTube:
 
