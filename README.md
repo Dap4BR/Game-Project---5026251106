@@ -40,7 +40,7 @@ Database used: MySQL
 
 ## How to Run
 
-1. Create the database `game\\\_project`.
+1. Create the database `game_project`.
 
 2. Import `schema.sql`.
 
