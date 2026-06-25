@@ -85,6 +85,8 @@ TopScorersFrame: Swing window for showing Top 5 scorers using a table.
 
 <img width="1910" height="1022" alt="image" src="https://github.com/user-attachments/assets/c4139073-a340-4bb0-a54a-a022cc53487f" />
 
+<img width="1911" height="1024" alt="image" src="https://github.com/user-attachments/assets/9a638157-f527-4ffd-93a5-e49e9f584aa2" />
+
 <img width="1911" height="1024" alt="image" src="https://github.com/user-attachments/assets/4047099e-08af-4f8c-aff9-510d87b575e8" />
 
 <img width="1906" height="1025" alt="image" src="https://github.com/user-attachments/assets/8e5816d3-e28e-4af8-80b4-0ee24ac6c6b2" />
